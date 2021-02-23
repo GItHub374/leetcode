@@ -17,7 +17,7 @@ class Base
 
 int main()
 {
-	cout << sizeof(Base) << "中文" ;
+	cout << sizeof(Base) << "中文"  << endl;
 
 	return 0;
 }
