@@ -18,6 +18,7 @@ class Base
 int main()
 {
 	cout << sizeof(Base) << "ÖĞÎÄ"  << endl;
+	//cout << "add something for learning git";
 
 	return 0;
 }
