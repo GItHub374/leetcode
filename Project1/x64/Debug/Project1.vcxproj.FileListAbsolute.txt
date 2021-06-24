@@ -1,2 +1,0 @@
-D:\vsproject\Project1\x64\Debug\Project1.exe
-D:\vsproject\Project1\x64\Debug\Project1.pdb
